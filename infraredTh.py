@@ -20,11 +20,13 @@ class infrared():
             else:
                 pass
                 #print 'wating'
+        print "返回命令:%s"%retval
         return retval
         #print self.ser.read(5)
     #转化为16禁止
 
     def write(self,s):
+        print "输入命令:%s"%s
         s=self.toHexStr(s)
         self.ser.write(s)
         #print s
