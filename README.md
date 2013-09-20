@@ -5,3 +5,12 @@
 
 #python依赖包
 * pyzmq
+
+
+#How to Contact
+##QQ:36405410
+##Email:apanly@163.com
+
+
+#Copying
+###Free use of this software is granted under the terms of the GNU Lesser General Public License (LGPL)
